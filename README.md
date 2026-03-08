@@ -6,10 +6,23 @@
 - 수집 범위: 2025년 6월 이후 발표된 harness engineering 직접 문헌과, 이를 형성한 context engineering / eval harness / coding-agent scaffolding 관련 핵심 문헌
 - 제외 범위: 단순 뉴스 재인용, 짧은 소셜 포스트, 번역 복제본, 제품 랜딩 페이지
 
+## 통합 문서 묶음
+
+- [docs/agent-harness/README.md](docs/agent-harness/README.md): 새 synthesis layer의 진입점
+- [docs/agent-harness/01-foundations-and-boundaries.md](docs/agent-harness/01-foundations-and-boundaries.md): 정의, 경계, 용어 구분
+- [docs/agent-harness/02-why-harnesses-matter.md](docs/agent-harness/02-why-harnesses-matter.md): 왜 harness가 중요한가
+- [docs/agent-harness/03-harnesses-in-agent-development.md](docs/agent-harness/03-harnesses-in-agent-development.md): agent 개발에서의 사용 방식
+- [docs/agent-harness/04-design-patterns-and-architecture.md](docs/agent-harness/04-design-patterns-and-architecture.md): 설계 패턴과 아키텍처
+- [docs/agent-harness/05-evals-observability-and-improvement.md](docs/agent-harness/05-evals-observability-and-improvement.md): eval, tracing, 개선 루프
+- [docs/agent-harness/06-humans-org-and-operating-model.md](docs/agent-harness/06-humans-org-and-operating-model.md): 사람, 조직, 운영 모델
+- [docs/agent-harness/07-source-crosswalk-and-coverage-audit.md](docs/agent-harness/07-source-crosswalk-and-coverage-audit.md): 31개 자료 커버리지 감사표
+- [REPORT.md](REPORT.md): 위 문서 묶음을 빠르게 훑는 축약형 랜딩 문서
+
 ## 디렉터리 구조
 - `docs/blogs`: 블로그/아티클 개별 문서
 - `docs/papers`: 논문 개별 문서
-- `REPORT.md`: 전체 종합 보고서
+- `docs/agent-harness`: 전체 코퍼스를 다시 종합한 실무 플레이북 문서 묶음
+- `REPORT.md`: 새 문서 구조를 안내하는 축약형 종합 개요
 
 ## 블로그/아티클
 - [2025-06-13] [How we built our multi-agent research system](docs/blogs/2025-06-13-anthropic-multi-agent-research-system.md) - Anthropic, 기반
