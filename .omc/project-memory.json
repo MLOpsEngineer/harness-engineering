@@ -1,0 +1,241 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1772973718866,
+  "projectRoot": "/Users/petersong/code/it-analyze/harness-engineering",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs",
+      "scripts"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 0,
+      "lastAccessed": 1772973718842,
+      "keyFiles": []
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1772973718844,
+      "keyFiles": [
+        "generate_harness_engineering_docs.py"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "docs/blogs/2025-11-26-anthropic-effective-harnesses-for-long-running-agents.md",
+      "accessCount": 6,
+      "lastAccessed": 1772975292645,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2025-08-26-gittaskbench.md",
+      "accessCount": 6,
+      "lastAccessed": 1772976010622,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2026-01-10-cedar.md",
+      "accessCount": 6,
+      "lastAccessed": 1772976051126,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2026-01-29-meta-context-engineering.md",
+      "accessCount": 6,
+      "lastAccessed": 1772976085573,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2025-07-24-agentic-program-repair-from-test-failures.md",
+      "accessCount": 6,
+      "lastAccessed": 1772976118188,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-09-29-anthropic-effective-context-engineering-for-ai-agents.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975230613,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-13-langchain-agent-frameworks-and-observability.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975665758,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-22-ignorance-ai-emerging-harness-engineering-playbook.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975698554,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-24-devto-agent-harness-is-the-architecture.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975725483,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-24-martinfowler-context-engineering-for-coding-agents.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975757868,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2026-02-10-autoharness.md",
+      "accessCount": 5,
+      "lastAccessed": 1772975957849,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-05-mitchellh-my-ai-adoption-journey.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975082235,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-17-langchain-improving-deep-agents-with-harness-engineering.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975209762,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-11-openai-harness-engineering.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975326754,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-01-23-openai-unrolling-the-codex-agent-loop.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975357272,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-02-04-openai-unlocking-the-codex-harness.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975386330,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-01-09-anthropic-demystifying-evals-for-ai-agents.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975419239,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-12-03-langchain-evaluating-deep-agents-our-learnings.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975450473,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2025-09-28-perfbench.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975840875,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2026-02-05-structured-context-engineering.md",
+      "accessCount": 4,
+      "lastAccessed": 1772975877730,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2026-02-25-vero.md",
+      "accessCount": 4,
+      "lastAccessed": 1772976169727,
+      "type": "file"
+    },
+    {
+      "path": "REPORT.md",
+      "accessCount": 3,
+      "lastAccessed": 1772974669751,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-07-18-manus-context-engineering-for-ai-agents.md",
+      "accessCount": 3,
+      "lastAccessed": 1772974982392,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-09-11-anthropic-writing-effective-tools-for-ai-agents.md",
+      "accessCount": 3,
+      "lastAccessed": 1772975056665,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-11-04-anthropic-code-execution-with-mcp.md",
+      "accessCount": 3,
+      "lastAccessed": 1772975179256,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-03-05-martinfowler-harness-engineering.md",
+      "accessCount": 2,
+      "lastAccessed": 1772973950082,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1772973823836,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-03-03-inngest-your-agent-needs-a-harness-not-a-framework.md",
+      "accessCount": 1,
+      "lastAccessed": 1772973835608,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2026-03-04-martinfowler-humans-and-agents-in-software-engineering-loops.md",
+      "accessCount": 1,
+      "lastAccessed": 1772973858915,
+      "type": "file"
+    },
+    {
+      "path": "docs/blogs/2025-06-13-anthropic-multi-agent-research-system.md",
+      "accessCount": 1,
+      "lastAccessed": 1772973859578,
+      "type": "file"
+    },
+    {
+      "path": "docs/papers/2025-06-13-sec-bench.md",
+      "accessCount": 1,
+      "lastAccessed": 1772973868266,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
